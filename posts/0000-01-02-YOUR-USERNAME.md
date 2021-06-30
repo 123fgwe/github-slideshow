@@ -1,4 +1,7 @@
----
+---y.r gamer
+ff
+cod
+pubg
 layout: slide
 title: “Welcome to our second slide!”
 ---
